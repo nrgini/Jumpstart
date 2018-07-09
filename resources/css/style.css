@@ -13,6 +13,6 @@ nav {
   font-weight: bold;
 }
 
-.nav .navbar-nav .navlink .active {
+.navbar-default .navbar-nav > .active > a {
   color: #399bd1;
 }
