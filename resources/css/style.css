@@ -99,6 +99,10 @@ nav {
   padding: 3rem;
 }
 
+ .projects {
+   padding: 0 3rem 5.85rem 3rem;
+ }
+
 .image-container img {
   opacity: 0.7;
 }
@@ -109,4 +113,27 @@ nav {
 
 .categories {
   color: #399bd1;
+}
+
+p.project-text {
+  padding-bottom: 3rem;
+}
+
+/* idea section */
+.idea {
+  padding: 5.2rem 1.5rem;
+  background-color: #f3f3f3;
+  text-align: center;
+}
+
+.idea-container {
+  max-width: 50rem;
+}
+
+.idea h2 {
+  margin-bottom: 1.4rem;
+}
+
+.idea p {
+  margin-bottom: 3rem;
 }
